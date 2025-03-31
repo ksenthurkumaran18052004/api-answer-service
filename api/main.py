@@ -32,3 +32,5 @@ async def solve_question(question: str = Form(...), file: UploadFile = File(None
         return {"answer": answer}
     except Exception as e:
         return {"answer": f"Error: {str(e)}"}
+# Required by Vercel
+handler = app
