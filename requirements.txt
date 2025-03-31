@@ -5,3 +5,13 @@ pydantic
 pandas
 numpy
 requests
+
+
+pandas
+openpyxl
+PyMuPDF
+beautifulsoup4
+duckdb
+pydub
+SpeechRecognition
+yt-dlp
