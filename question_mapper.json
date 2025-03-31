@@ -1,0 +1,64 @@
+{
+    "Install and run Visual Studio Code. In your Terminal (or Command Prompt), type code -s and press Enter.": "ga1_q1",
+    "Send a HTTPS request to https://httpbin.org/get with the URL encoded parameter email set to 22f3002902@ds.study.iitm.ac.in": "ga1_q2",
+    "Download README.md. In the directory where you downloaded it, run npx -y prettier@3.4.2 README.md | sha256sum": "ga1_q3",
+    "Type this formula into Google Sheets.": "ga1_q4",
+    "Type this formula into Excel.": "ga1_q5",
+    "How many Wednesdays are there in the date range 1980-10-11 to 2010-08-19?": "ga1_q7",
+    "Download and unzip file which has a single extract.csv file inside.": "ga1_q8",
+    "Sort this JSON array of objects by the value of the age field.": "ga1_q9",
+    "Convert it into a single JSON object, where key=value pairs are converted": "ga1_q10",
+    "Find all <div>s having a foo class in the hidden element": "ga1_q11",
+    "Process the files in q-unicode-data.zip": "ga1_q12",
+    "Commit a single JSON file called email.json": "ga1_q13",
+    "Replace all IITM (in upper, lower, or mixed case) with IIT Madras": "ga1_q14",
+    "List all files in the folder along with their date and file size": "ga1_q15",
+    "Move all files under folders into an empty folder and rename": "ga1_q16",
+    "It has 2 nearly identical files, a.txt and b.txt": "ga1_q17",
+    "What is the total sales of all the items in the Gold ticket type": "ga1_q18",
+
+    "Write documentation in Markdown for an imaginary analysis of the number of steps you walked each day for a week.": "ga2_q1",
+    "Download the image below and compress it losslessly to an image that is less than 1,500 bytes.": "ga2_q2",
+    "Publish a page using GitHub Pages that showcases your work.": "ga2_q3",
+    "Run this program on Google Colab, allowing access to email ID.": "ga2_q4",
+    "Download this image. Create a new Google Colab notebook and run this code.": "ga2_q5",
+    "Create and deploy a Python app to Vercel to fetch student marks via API.": "ga2_q6",
+    "Create a GitHub action that includes your email ID.": "ga2_q7",
+    "Create and push an image to Docker Hub with tag 22f3002902": "ga2_q8",
+    "Write a FastAPI server that serves data from q-fastapi.csv": "ga2_q9",
+    "Run Llamafile with Llama-3.2-1B-Instruct.Q6_K.llamafile using ngrok": "ga2_q10",
+
+    "Analyze the sentiment of this meaningless text with OpenAI API": "ga3_q1",
+    "How many tokens does the request with words lG010gFD, Fz7rjDq7, ... use?": "ga3_q2",
+    "Write JSON body to generate 10 US addresses in GPT": "ga3_q3",
+    "Write JSON body for a vision+text request to extract text": "ga3_q4",
+    "Generate OpenAI embedding request body for two transaction messages": "ga3_q5",
+    "Write function to return the most similar feedback pair": "ga3_q6",
+    "Create a FastAPI POST /similarity endpoint for semantic search": "ga3_q7",
+    "Route queries to specific functions using FastAPI GET /execute": "ga3_q8",
+    "Write a prompt that makes the LLM say 'Yes'": "ga3_q9",
+
+    "What is the total number of ducks across players on page number 16 of ESPN Cricinfo's ODI batting stats?": "ga4_q1",
+    "Filter all titles with a rating between 6 and 7": "ga4_q2",
+    "What is the Markdown outline for the Wikipedia page of the country Vanuatu?": "ga4_q3",
+    "Weather forecast description for Phoenix using BBC API": "ga4_q4",
+    "maximum latitude of the bounding box of the city Harare in the country Zimbabwe on the Nominatim API": "ga4_q5",
+    "latest Hacker News post mentioning Quantum Computing having at least 81 points": "ga4_q6",
+    "When was the newest user's GitHub profile created?": "ga4_q7",
+    "Calculate the total English marks of students who scored 28 or more marks in Biology in groups 3-34 (including both groups)": "ga4_q9",
+    "Convert the PDF to Markdown and format it using Prettier": "ga4_q10",
+
+    "Calculate the total margin for transactions before Wed Jan 25 2023 19:32:38 GMT+0530 (India Standard Time) for Delta sold in FR (which may be spelt in different ways)?": "ga5_q1",
+    "How many unique students are there in the file?": "ga5_q2",
+    "What is the number of successful GET requests for pages under /tamilmp3/ from 13:00 until before 23:00 on Sundays?": "ga5_q3",
+    "Across all requests under hindimp3/ on 2024-05-18, how many bytes did the top IP address (by volume of downloads) download?": "ga5_q4",
+    "How many units of Mouse were sold in Lahore on transactions with at least 132 units?": "ga5_q5",
+    "What is the total sales value?": "ga5_q6",
+    "How many times does KCOH appear as a key?": "ga5_q7",
+    "What is the text of the transcript of this Mystery Story Audiobook between 452.3 and 568.5 seconds?": "ga5_q9"
+
+
+      
+
+
+}
